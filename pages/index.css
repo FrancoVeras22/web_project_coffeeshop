@@ -1,3 +1,12 @@
+@import url("../vendor/normalize.css");
+@import url("../blocks/page.css");
+@import url("../blocks/header.css");
+@import url("../blocks/nav.css");
+@import url("../blocks/recipes.css");
+@import url("../blocks/reservation.css");
+@import url("../blocks/form.css");
+@import url("../blocks/footer.css");
+/*
 * {
   margin: 0px;
   padding: 0px;
@@ -137,7 +146,7 @@ h2 {
   flex-direction: column;
 }
 
-/*sección de recetas*/
+
 
 .recipes {
   display: flex;
@@ -190,7 +199,7 @@ h2 {
   color: #ffffff;
 }
 
-/*sección de reservas*/
+
 
 .reservation {
   background-color: #d9e7ff;
@@ -283,3 +292,5 @@ h2 {
 .form__span_checkbox {
   margin-left: 12px;
 }
+
+*/
