@@ -88,3 +88,4 @@ El diseño de la página está estructurado como un **scroll infinito**, present
 
 **Franco Verastegui**  
 Desarrollador Web en curso.
+https://francoveras22.github.io/web_project_coffeeshop/
